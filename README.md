@@ -1,6 +1,8 @@
 # Hi there 👋
-## I am Timmy
+## I am Timmy Leonel
 ### Welcome to my profile
+
+
 
 <!--
 **timmyleonel/timmyleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
