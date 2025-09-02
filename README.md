@@ -15,7 +15,7 @@ Projects
 
 Contact me
 - Email: timmyleonel235@gmail.com
-- linkedin: https://www.linkedin.com/in/leonelSiboleka
+- linkedin: https://www.linkedin.com/in/leonel-siboleka-44938b2a6
 <!--
 **timmyleonel/timmyleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
